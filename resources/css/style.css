@@ -7,11 +7,14 @@
 }
 
 .download {
+  font-family: Verdana;
   color: Aquamarine;
   font-size: 16px;
+  text-decoration: underline;
 }
 
 #midHeading {
+  color: White;
   font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
@@ -24,6 +27,7 @@
 }
 
 #excursion {
+  font-family: Verdana;
   text-align: right;
   color: Gray;
 }
@@ -32,4 +36,3 @@
   background-color: Black;
   text-align: center;
 }
-/* Black (Background Color); Text Align Center*/
